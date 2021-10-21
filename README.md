@@ -1,2 +1,5 @@
-# Readme is TODO:
-- twitter api doesnt like the request from deno deploy. Proxy to handle posting tweets.
+# Twitter Proy
+
+The code here represents the twitter proxy.
+
+![architecture-diagram](https://personal-project-readmes.s3.amazonaws.com/Tweet+Trending+Repos.png)
