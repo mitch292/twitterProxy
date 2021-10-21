@@ -1,4 +1,4 @@
-# Twitter Proy
+# Twitter Proxy
 
 The code here represents the twitter proxy.
 
